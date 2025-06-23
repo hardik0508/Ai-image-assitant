@@ -1,0 +1,5 @@
+
+{
+  "name": "AI Image Assistant",
+  "description": "An application that uses the Gemini API to generate descriptive captions and engaging social media posts for uploaded images."
+}
